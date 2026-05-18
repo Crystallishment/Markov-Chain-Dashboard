@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+.env
+
+# Flask / local files
+instance/
+uploads/
+*.db
+*.sqlite
+*.sqlite3
+
+# Node / React
+node_modules/
+dist/
+build/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# System
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+# Socket / local runtime files
+*.sock*
+config.py
