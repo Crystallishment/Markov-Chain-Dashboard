@@ -1,4 +1,3 @@
-# dreamory
 # Simulate Your Data: Markov Chain Dashboard
 
 A web dashboard for uploading clickstream CSV data, building a Markov transition model, and visualizing both real and simulated user navigation paths.
